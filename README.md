@@ -157,3 +157,4 @@ Quadros | FIFO | LRU | OTM
 1024   | 1450 | 1273 | 1260
 4096  | 1260 | 1260 | 1260
 
+** Caso utilize o arquivo teste, não esqueça de alterar a primeira linha do arquivo para os valores de _"quadros"_ desejado, conforme tabela acima.
