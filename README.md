@@ -147,3 +147,13 @@ LRU 8
 
 ##### Corretude
 O programa deve ler a entrada e imprimir a saída EXATAMENTE como no formato especificado acima. A impressão de qualquer outro caractere ou de dados fora da ordem solicitada implicará em uma saída incorreta.
+
+##### Exemplo de saída do arquivo teste
+
+Quadros | FIFO | LRU | OTM
+:---------: | :------: | :------: | :------:
+64     | 38496 | 30416 |18377
+256    | 9859 | 6270 | 3107
+1024   | 1450 | 1273 | 1260
+4096  | 1260 | 1260 | 1260
+
