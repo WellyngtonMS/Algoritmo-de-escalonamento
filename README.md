@@ -41,5 +41,109 @@ OTM 6
 LRU 8
 ```
 
+##### Exemplo de entrada
+```
+3
+7
+0
+1
+2
+0
+3
+0
+4
+2
+3
+0
+3
+2
+1
+2
+0
+1
+7
+0
+1
+```
+
+##### Exemplo de saída
+```
+FIFO 15
+OTM 9
+LRU 12
+```
+
+##### Exemplo de entrada
+```
+3
+0
+2
+1
+3
+5
+4
+6
+3
+7
+4
+7
+3
+3
+5
+5
+3
+1
+1
+1
+7
+1
+3
+4
+1
+```
+
+##### Exemplo de saída
+```
+FIFO 15
+OTM 11
+LRU 14
+```
+
+##### Exemplo de entrada
+```
+7
+0
+2
+1
+3
+5
+4
+6
+3
+7
+4
+7
+3
+3
+5
+5
+3
+1
+1
+1
+7
+1
+3
+4
+1
+```
+
+##### Exemplo de saída
+```
+FIFO 8
+OTM 8
+LRU 8
+```
+
 ##### Corretude
 O programa deve ler a entrada e imprimir a saída EXATAMENTE como no formato especificado acima. A impressão de qualquer outro caractere ou de dados fora da ordem solicitada implicará em uma saída incorreta.
