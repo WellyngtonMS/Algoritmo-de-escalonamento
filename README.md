@@ -5,8 +5,8 @@ Neste projeto você deve escrever um programa para simular o funcionamento dos p
 Os algoritmos de substituição de páginas a serem implementados são os seguintes:
 
 ##### ¤ FIFO (First In, First Out)
-##### ¤ OTM: Algoritmo Ótimo
-##### ¤ LRU: (Least Recently Used ou Menos Recentemente Utilizado)
+##### ¤ OTM Algoritmo Ótimo
+##### ¤ LRU (Least Recently Used ou Menos Recentemente Utilizado)
 
 O seu programa deverá ler de um arquivo um conjunto de número inteiros onde o primeiro número representa a quantidade de quadros de memória disponíveis na RAM e os demais representam a sequência de referências às páginas, sempre um número por linha.
 
